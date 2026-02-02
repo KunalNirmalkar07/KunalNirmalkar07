@@ -15,7 +15,7 @@ Email Me 👉 ✉️ kunalnirmalkar345@gmail.com For Collaboration/Project or An
 
 📫 How to reach me: https://www.linkedin.com/in/kunal-nirmalkar/
 
-⚡ Fun fact: I love story-driven games like RDR2 and solving advanced coding problems.
+⚡ Fun fact: I love story-driven games like RDR2 and solving advanced math problems.
 
 
 ## 🌐 Socials:
