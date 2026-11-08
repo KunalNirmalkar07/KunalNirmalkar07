@@ -13,7 +13,7 @@ Email Me 👉 ✉️ kunalnirmalkar345@gmail.com For Collaboration/Project or An
 
 💬 Ask me about: MERN Stack, React, and Full Stack Development.
 
-📫 How to reach me: https://www.linkedin.com/in/kunal-nirmalkar/
+📫 How to reach me: https://www.linkedin.com/in/kunal-nirmalkar/  & https://kunalnportfolio.netlify.app/
 
 ⚡ Fun fact: I love story-driven games like RDR2 and solving advanced math problems.
 
