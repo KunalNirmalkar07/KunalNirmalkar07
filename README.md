@@ -6,7 +6,7 @@
 <h1 align="center">Namaste 🙏 I'm Kunal Nirmalkar</h1>
 
 <p align="center">
-  ⚡ I engineer full-stack web applications, modern dark-themed UIs, and automated DevOps workflows while exploring Generative AI and Cloud Architecture. Pursuing my B.Tech in Computer Science & Engineering at <b>BIT Durg</b>, building real-world civic-tech and AI platforms that solve practical Indian problems. 💻
+  ⚡ I engineer full-stack web applications, modern dark-themed UIs, and automated DevOps workflows while exploring Generative AI and Cloud Architecture. Pursuing my B.Tech in Computer Science & Engineering at <b>BIT Durg</b>, building real-world civic-tech and AI platforms that solve practical problems. 💻
 </p>
 
 <hr />
